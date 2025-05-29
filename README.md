@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Soy un desarrollador apasionado por crear soluciones eficientes, intuitivas y reutilizables, tanto en backend como frontend. Tengo experiencia en desarrollo web con **Django** y Flask, además de proyectos con microcontroladores e IoT.</h4>
+<h4 align="left">Soy un desarrollador apasionado por crear soluciones eficientes, intuitivas y reutilizables, tanto en backend como frontend. Tengo experiencia en desarrollo web con Django y Flask, además de proyectos con microcontroladores e IoT.</h4>
 
 ###
 
@@ -55,16 +55,77 @@
 
 ###
 
-<h3 align="left">🔧 Proyectos Destacados</h3>
+### 🔧 Proyectos Destacados
 
 ###
 
-## 🛒 Sistema de Gestión para Boutiques<br>Desarrollé un sistema completo de tickets con códigos de barras para gestionar cambios de prendas, mejorando significativamente la eficiencia del personal y la experiencia del cliente. Implementación en entornos reales con múltiples usuarios.<br><br><br><br>## 🌱 Digitalización de ONG "Rompiendo Límites"<br>Transformé procesos manuales en una ONG al desarrollar un sistema digital para la gestión de proyectos y beneficiarios, mejorando la trazabilidad y eficiencia operativa.<br><br>---<br><br>## 💡 Proyectos Universitarios<br>- Sistema IoT con Node-RED y Telegram Bot: Automatización del encendido de LEDs y lectura remota de sensores de temperatura.<br><br>- Lector de Placas Vehiculares: Detección automatizada de infracciones con notificación por correo electrónico incluyendo fotografía y multa.<br><br>- Gestor Escolar: Automatización del manejo de notas y reportes en Excel para una escuela primaria.<br><br>- Escaneo de Redes y Seguridad: Software para identificar puertos abiertos y analizar vulnerabilidades en dispositivos conectados.<br><br>---<br><br>## 🧭 Filosofía de Desarrollo<br><br>Mi enfoque como desarrollador se basa en resolver problemas reales mediante soluciones prácticas y sostenibles. Me especializo en crear sistemas a medida, ajustados a los flujos de trabajo de cada cliente, optimizando la eficiencia operativa y asegurando una experiencia de usuario clara y fluida.<br><br>- Priorizo la usabilidad, la escalabilidad y el mantenimiento a largo plazo.<br><br>- Documentación clara con docstrings y Sphinx para facilitar la colaboración y el soporte.<br><br>- Desarrollo con visión de futuro: cada sistema que creo debe poder evolucionar fácilmente.<br><br>- Fuerte énfasis en la automatización, el control de calidad y el trabajo en equipo.<br><br>También integro principios ágiles y buenas prácticas de desarrollo, combinando conocimientos en scraping, data science, y control de versiones para aportar soluciones completas y modernas.<br><br><br>> “La simplicidad llevada al extremo se convierte en elegancia.” – Jonh Franklin
+#### 🛒 Sistema de Gestión para Boutiques
+
+Desarrollé un sistema completo de tickets con códigos de barras para gestionar cambios de prendas, mejorando significativamente la eficiencia del personal y la experiencia del cliente. Implementación en entornos reales con múltiples usuarios.
+
+#### 🌱 Digitalización de ONG "Rompiendo Límites"
+
+Transformé procesos manuales en una ONG al desarrollar un sistema digital para la gestión de proyectos y beneficiarios, mejorando la trazabilidad y eficiencia operativa.
+
+---
+
+#### 💡 Proyectos Universitarios
+
+- Sistema IoT con Node-RED y Telegram Bot: Automatización del encendido de LEDs y lectura remota de sensores de temperatura.
+
+- Lector de Placas Vehiculares: Detección automatizada de infracciones con notificación por correo electrónico incluyendo fotografía y multa.
+
+- Gestor Escolar: Automatización del manejo de notas y reportes en Excel para una escuela primaria.
+
+- Escaneo de Redes y Seguridad: Software para identificar puertos abiertos y analizar vulnerabilidades en dispositivos conectados.
+
+---
+
+#### 🧭 Filosofía de Desarrollo
+
+Mi enfoque como desarrollador se basa en resolver problemas reales mediante soluciones prácticas y sostenibles. Me especializo en crear sistemas a medida, ajustados a los flujos de trabajo de cada cliente, optimizando la eficiencia operativa y asegurando una experiencia de usuario clara y fluida.
+
+- Priorizo la usabilidad, la escalabilidad y el mantenimiento a largo plazo.
+
+- Documentación clara con docstrings y Sphinx para facilitar la colaboración y el soporte.
+
+- Desarrollo con visión de futuro: cada sistema que creo debe poder evolucionar fácilmente.
+
+- Fuerte énfasis en la automatización, el control de calidad y el trabajo en equipo.
+
+También integro principios ágiles y buenas prácticas de desarrollo, combinando conocimientos en scraping, data science, y control de versiones para aportar soluciones completas y modernas.
+
+> “La simplicidad llevada al extremo se convierte en elegancia.” – Jonh Franklin
 
 ###
 
-# 👨‍ Sobre mí<br><br>
-### 👨‍💻 Actualmente estoy trabajando en...<br>Mejorar y mantener sistemas de gestión, desarrollando funcionalidades reutilizables para flujos de trabajo complejos, tanto en frontend como backend. También estoy afinando un gestor de tickets con Django.<br><br>
-### 🧠 Actualmente estoy aprendiendo...<br>Buenas prácticas de seguridad, automatización con web scraping y arquitectura de datos para proyectos con alto volumen de información.<br><br>## 🧙‍♂️ Busco colaborar en...<br>Proyectos de software que impacten directamente la productividad de equipos o comunidades. Me interesa especialmente todo lo relacionado con educación, automatización, y herramientas de uso interno para empresas.<br><br>## 🤔 Busco ayuda con...<br>Mejorar la escalabilidad de mis proyectos, aplicar pruebas automatizadas más efectivas y profundizar en buenas prácticas de DevOps.<br><br>## 💬 Pregúntame sobre...<br>Django, Flask, automatización con Python, IoT con microcontroladores, control de versiones con Git, o cómo convertir un flujo de trabajo manual en una herramienta digital eficiente.<br><br>## 📫 Cómo contactarme...<br>Puedes escribirme por GitHub o agregarme a un proyecto directamente desde aquí. También puedo enviarte mi correo por privado si te interesa contactarme fuera de la plataforma.<br><br><br><br>## ⚡️ Dato curioso...<br>Soy capaz de desarrollar un sistema completo desde cero: desde montar una base de datos eficiente, hasta diseñar una interfaz limpia, integrarlo con dispositivos físicos y despleglarlo para uso interno o público.
+# 👨‍ Sobre mí
 
-###
+### 👨‍💻 Actualmente estoy trabajando en...
+
+Mejorar y mantener sistemas de gestión, desarrollando funcionalidades reutilizables para flujos de trabajo complejos, tanto en frontend como backend. También estoy afinando un gestor de tickets con Django.
+
+### 🧠 Actualmente estoy aprendiendo...
+
+Buenas prácticas de seguridad, automatización con web scraping y arquitectura de datos para proyectos con alto volumen de información.
+
+#### 🧙‍♂️ Busco colaborar en...
+
+Proyectos de software que impacten directamente la productividad de equipos o comunidades. Me interesa especialmente todo lo relacionado con educación, automatización, y herramientas de uso interno para empresas.
+
+#### 🤔 Busco ayuda con...
+
+Mejorar la escalabilidad de mis proyectos, aplicar pruebas automatizadas más efectivas y profundizar en buenas prácticas de DevOps.
+
+#### 💬 Pregúntame sobre...
+
+Django, Flask, automatización con Python, IoT con microcontroladores, control de versiones con Git, o cómo convertir un flujo de trabajo manual en una herramienta digital eficiente.
+
+#### 📫 Cómo contactarme...
+
+Puedes escribirme por GitHub o agregarme a un proyecto directamente desde aquí. También puedo enviarte mi correo por privado si te interesa contactarme fuera de la plataforma.
+
+#### ⚡️ Dato curioso...
+
+Soy capaz de desarrollar un sistema completo desde cero: desde montar una base de datos eficiente, hasta diseñar una interfaz limpia, integrarlo con dispositivos físicos y despleglarlo para uso interno o público.
+
