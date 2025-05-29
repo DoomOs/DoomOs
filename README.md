@@ -12,10 +12,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DoomOs&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=false" height="190" alt="languages graph"  />
 </div>
 
-
+<br><br>
 <img align="right" height="150" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif"  />
 
+
 ###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
