@@ -7,11 +7,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DoomOs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=DoomOs&locale=es&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DoomOs&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DoomOs&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=default&locale=es&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=DoomOs&locale=es&mode=weekly&theme=default&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DoomOs&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=false" height="190" alt="languages graph"  />
 </div>
-
 ###
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif"  />
